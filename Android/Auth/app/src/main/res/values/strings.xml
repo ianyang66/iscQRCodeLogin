@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="result_title">掃一掃登錄</string>
+    <string name="setup_title">帳號設置</string>
+    <string name="scan_title">掃一掃</string>
+
+</resources>
